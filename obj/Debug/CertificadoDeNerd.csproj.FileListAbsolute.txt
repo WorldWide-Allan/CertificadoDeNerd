@@ -1,0 +1,17 @@
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\bin\Debug\CertificadoDeNerd.exe.config
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\bin\Debug\CertificadoDeNerd.exe
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\bin\Debug\CertificadoDeNerd.pdb
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.csproj.AssemblyReference.cache
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.Form1.resources
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.Pergunta4.resources
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.Pergunta3.resources
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.Intro.resources
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.Pergunta2.resources
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.Pergunta1.resources
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.Properties.Resources.resources
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.csproj.GenerateResource.cache
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.csproj.CoreCompileInputs.cache
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.exe
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.pdb
+D:\Visual Studio - Projetos\C#\Certificado de Nerd - Projeto Quizz\CertificadoDeNerd\obj\Debug\CertificadoDeNerd.Gabarito.resources
